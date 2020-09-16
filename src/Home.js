@@ -8,7 +8,7 @@ function Home() {
             <img className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt=""></img>
             <div className="home__row">
                 <Product
-                    id="123123"
+                    id="1"
                     title="Macbook Pro (13 inch)"
                     price={1299.99}
                     rating={5}
@@ -16,7 +16,7 @@ function Home() {
                 />
 
                 <Product
-                    id="123123"
+                    id="2"
                     title="Headphone"
                     price={99.99}
                     rating={4}
@@ -26,7 +26,7 @@ function Home() {
 
             <div className="home__row">
                 <Product
-                    id="123123"
+                    id="3"
                     title="Bluetooth Speaker"
                     price={159.99}
                     rating={4}
@@ -34,7 +34,7 @@ function Home() {
                 />
 
                 <Product
-                    id="123123"
+                    id="4"
                     title="Sneakers"
                     price={229.99}
                     rating={5}
@@ -42,7 +42,7 @@ function Home() {
                 />
 
                 <Product
-                    id="123123"
+                    id="5"
                     title="IPad Pro"
                     price={799}
                     rating={5}
@@ -52,7 +52,7 @@ function Home() {
 
             <div className="home__row">
                 <Product
-                    id="123123"
+                    id="6"
                     title="Samsung Ultra Wide Monitor"
                     price={479}
                     rating={5}
